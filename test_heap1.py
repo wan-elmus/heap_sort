@@ -1,4 +1,6 @@
-from heap1 import * 
+# from heap1 import * 
+from heap2 import * 
+# from heap3 import * 
 if __name__ == "__main__":
 
 

@@ -1,6 +1,7 @@
 import math
 import time
 import random
+import string
 import matplotlib.pyplot as plt
 
 class MaxHeap:
@@ -59,11 +60,14 @@ class MaxHeap:
 
 def sort_movies_batch(names, ratings):
     heap = MaxHeap()
-    heap.maxHeap(ratings)
+    heap.maxHeap([(rating, i) for i, rating in enumerate(ratings)])
     sorted_names = []
-    for i in range(len(ratings)):
-        sorted_names.append(names[ratings.index(heap.remove())])
+    while heap.heap:
+        max_rating, index = heap.remove()
+        if max_rating is not None and max_rating[0] not in sorted_names:
+            sorted_names.append(names[max_rating[1]])
     return sorted_names[::-1]
+
 
 def sort_movies_incre(names, ratings):
     heap = MaxHeap()
@@ -74,35 +78,48 @@ def sort_movies_incre(names, ratings):
         sorted_names.append(names[ratings.index(heap.remove())])
     return sorted_names[::-1]
 
-# Generate data
-data_sizes = [1000, 10000, 100000]
-datasets = []
-for size in data_sizes:
-    names = [f"Movie {i}" for i in range(size)]
+# Generate the dataset
+def generate_data(size):
+    names = [''.join(random.choices(string.ascii_uppercase, k=10)) for _ in range(size)]
     ratings = [random.uniform(0, 10) for _ in range(size)]
-    datasets.append((names, ratings))
+    return names, ratings
 
-# Sort data using heap sort and measure runtime
-heap_sort_runtimes = []
-for names, ratings in datasets:
-    start_time = time.time()
-    sort_movies_batch(names, ratings)
-    end_time = time.time()
-    heap_sort_runtimes.append(end_time - start_time)
+names_1000, ratings_1000 = generate_data(1000)
+names_10000, ratings_10000 = generate_data(10000)
+names_100000, ratings_100000 = generate_data(100000)
 
-# Sort data using Python's built-in sorting method and measure runtime
-builtin_sort_runtimes = []
-for names, ratings in datasets:
-    start_time = time.time()
-    sorted(zip(names, ratings), key=lambda x: x[1])
-    end_time = time.time()
-    builtin_sort_runtimes.append(end_time - start_time)
+# sort_movies_batch on 1,000 input size
+start = time.time()
+sort_movies_batch(names_1000, ratings_1000)
+end = time.time()
+print(f"Runtime for 1,000 input size: {end - start:.6f} seconds")
 
-# Plot results
-plt.plot(data_sizes, heap_sort_runtimes, label='Heap Sort')
-plt.plot(data_sizes, builtin_sort_runtimes, label='Built-in Sort')
-plt.xlabel('Data Size')
-plt.ylabel('Runtime (seconds)')
-plt.legend()
-plt.show()
+# sort_movies_batch on 10,000 input size
+start = time.time()
+sort_movies_batch(names_10000, ratings_10000)
+end = time.time()
+print(f"Runtime for 10,000 input size: {end - start:.6f} seconds")
 
+# sort_movies_batch on 100,000 input size
+start = time.time()
+sort_movies_batch(names_100000, ratings_100000)
+end = time.time()
+print(f"Runtime for 100,000 input size: {end - start:.6f} seconds")
+
+# sort_movies_incre on 1,000 input size
+start = time.time()
+sort_movies_incre(names_1000, ratings_1000)
+end = time.time()
+print(f"Runtime for sort_movies_incre on 1,000 input size: {end - start:.6f} seconds")
+
+# built-in sorting methods on 1,000 input size
+start = time.time()
+sorted_names = [name for _, name in sorted(zip(ratings_1000, names_1000))]
+end = time.time()
+print(f"Runtime for sorted function on 1,000 input size: {end - start:.6f} seconds")
+
+start = time.time()
+ratings_1000.sort()
+sorted_names = [name for _, name in sorted(zip(ratings_1000, names_1000))]
+end = time.time()
+print(f"Runtime for list.sort method on 1,000 input size: {end - start:.6f} seconds")
