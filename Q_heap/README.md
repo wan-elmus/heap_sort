@@ -29,4 +29,24 @@ The *sort_movies_incre* function takes two lists, names and ratings, but instead
 
 ## For Q2
 
+The MaxHeap class has an instance variable heap that is initially an empty list. The methods parent, leftChild, and rightChild are used to calculate the indices of a node's parent, left child, and right child nodes, respectively.
+
+The maxHeapify method is used to maintain the MaxHeap property after a value has been removed from the heap. It takes an index i and the size of the heap n as arguments, and recursively swaps nodes in the heap until the MaxHeap property is restored.
+
+The insert method is used to insert a value into the heap. It adds the value to the end of the heap and then swaps it with its parent node until the MaxHeap property is restored.
+
+The Print method is used to print the contents of the heap.
+
+The maxHeap method is used to build a MaxHeap from a given list of values. It starts from the middle of the list and recursively calls maxHeapify to ensure that each subtree is a MaxHeap.
+
+The remove method is used to remove the maximum value from the heap. It swaps the maximum value with the last value in the heap, removes the last value, and then calls maxHeapify to restore the MaxHeap property.
+
+The sort_movies_batch function takes two lists as arguments: names and ratings. It sorts the list of names based on the list of ratings using a MaxHeap. It starts by building a MaxHeap from the list of ratings, then iteratively removes the maximum value from the heap and adds the corresponding name to a new list. Finally, it returns the sorted list of names in ascending order.
+
+The sort_movies_incre function is similar to sort_movies_batch, but it inserts the values into the heap one at a time rather than building the heap from a list. It starts by inserting all the ratings into the heap, then iteratively removes the maximum value from the heap and adds the corresponding name to a new list. Finally, it returns the sorted list of names in ascending order.
+
+
+## For Q3
+
+
 
