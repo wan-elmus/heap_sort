@@ -1,0 +1,1000 @@
+The Godfather; 9.2
+The Godfather: Part II; 9.0
+The Godfather: Part III; 7.6
+Pulp Fiction; 8.9
+The Lord of the Rings: The Fellowship of the Ring; 8.8
+The Lord of the Rings: The Two Towers; 8.7
+The Lord of the Rings: The Return of the King; 8.9
+Star Wars: Episode IV - A New Hope; 8.6
+Star Wars: Episode V - The Empire Strikes Back; 8.7
+Star Wars: Episode VI - Return of the Jedi; 8.3
+Star Wars: Episode I - The Phantom Menace; 6.5
+Star Wars: Episode II - Attack of the Clones; 6.6
+Star Wars: Episode III - Revenge of the Sith; 7.5
+Star Wars: Episode VII - The Force Awakens; 7.9
+Star Wars: Episode VIII - The Last Jedi; 7.0
+Star Wars: Episode IX - The Rise of Skywalker; 6.5
+Harry Potter and the Philosopher's Stone; 7.6
+Harry Potter and the Chamber of Secrets; 7.4
+Harry Potter and the Prisoner of Azkaban; 7.9
+Harry Potter and the Goblet of Fire; 7.7
+Harry Potter and the Order of Phoenix; 7.5
+Harry Potter and the Half-Blood Prince; 7.6
+Harry Potter and the Deathly Hallows – Part 1; 7.7
+Harry Potter and the Deathly Hallows – Part 2; 8.1
+The Hobbit: An Unexpected Journey; 7.8
+The Hobbit: The Desolation of Smaug; 7.8
+The Hobbit: The Battle of the Five Armies; 7.4
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe; 6.9
+The Chronicles of Narnia: Prince Caspian; 6.5
+The Chronicles of Narnia: The Voyage of the Dawn Treader; 6.3
+The Matrix Reloaded; 7.2
+The Matrix Revolutions; 6.8
+The Hunger Games; 7.2
+The Hunger Games: Catching Fire; 7.5
+The Hunger Games: Mockingjay – Part 1; 6.6
+The Hunger Games: Mockingjay – Part 2; 6.6
+Jurassic Park; 8.1
+Jurassic World; 7.0
+Jurassic World: Fallen Kingdom; 6.2
+Toy Story; 8.3
+Toy Story 2; 7.9
+Toy Story 3; 8.3
+Toy Story 4; 7.7
+Finding Nemo; 8.1
+Finding Dory; 7.3
+The Lion King; 8.5
+Aladdin; 7.9
+The Little Mermaid; 7.6
+Beauty and the Beast; 8.0
+Frozen; 7.4
+Frozen II; 6.9
+Coco; 8.4
+Moana; 7.6
+Zootopia; 8.0
+Inside Out; 8.1
+Up; 8.2
+The Incredibles; 8.0
+Ratatouille; 8.0
+WALL-E; 8.4
+Brave; 7.1
+Monsters, Inc.; 8.1
+Monsters University;
+Dont Look Up; 7.2
+Spider-Man: No way Home; 8.7
+Attack on Titan; 9.0
+Nightmare Alley; 7.2
+Encanto; 7.3
+The Book of Boba Fett; 7.8
+All of Us Are Dead; 7.7
+Dune; 8.1
+Breaking Bad; 9.4
+Reacher; 8.6
+Ghostbusters: afterlife; 7.3
+Peacemaker; 8.4
+The Frog; 8.5
+Sing; 7.5
+The Mandalorian; 8.8
+The Matrix; 8.7
+Avengers: infinity war; 8.4
+Forrest Gump; 8.8
+Inception; 8.8
+After Life; 8.5
+Dexter: New Blood; 8.3
+Nobody; 7.4
+Avengers:Endgame; 8.4
+Fight Club; 8.8
+The Witcher; 8.2
+Euphoria; 8.4
+Joker; 8.4
+Free Guy; 7.2
+The Tinder Swindler; 7.4
+Ozark; 8.4
+Interstellar; 8.6
+The Shawshank Redemption; 9.3
+Hawkeye; 7.7
+The Dark Knight; 9.0
+Game of Thrones; 9.2
+No Time to Die; 7.4
+Squid Game; 8.0
+Scream; 7.1
+The Last Duel; 7.4
+Arcane; 9.1
+Archive 81; 7.5
+Tenet; 7.5
+The French Dispatch; 7.9
+Loki; 8.5
+Mare of Easttown; 8.0
+Black Widow; 7.0
+Cruella; 7.4
+The Suicide Squad; 7.3
+Malignant; 6.3
+The Many Saints of Newark; 7.1
+The Green Knight; 7.6
+Shang-Chi and the Legend of the Ten Rings; 7.9
+Soul; 8.3
+Luca; 7.5
+The Mitchells vs the Machines; 7.8
+The Power of the Dog; 7.5
+CODA; 8.2
+Tick, Tick... Boom!; 8.1
+Red Notice; 6.6
+The Harder They Fall; 6.7
+Eternals; 7.3
+Resident Evil: Welcome to Raccoon City; 5.6
+Don't Breathe 2; 6.1
+Dune: Part Two; 8.4
+The Lost Daughter; 7.3
+Encounter; 6.3
+West Side Story; 7.5
+The Tragedy of Macbeth; 7.7
+The Batman; 8.0
+The Flash; 7.5
+Doctor Strange in the Multiverse of Madness; 8.5
+John Wick: Chapter 4; 7.8
+The Grey Man; 7.4
+Avatar: The Way of Water; 8.7
+Jungle Cruise; 6.7
+The King's Man; 7.0
+No Time to Die; 7.8
+The Northman; 7.3
+Blonde; 6.8
+The Unforgivable; 6.5
+Night Teeth; 6.2
+The Matrix Resurrections; 7.9
+Encounter; 6.3
+The Tender Bar; 7.6
+The Lost City; 6.4
+The Lost City of D; 7.2
+The Sea Beast; 6.9
+The Adam Project; 7.1
+Bullet Train; 7.4
+Babylon; 7.6
+Sonic the Hedgehog 2; 7.2
+Knives Out 2; 7.8
+Black Panther: Wakanda Forever; 8.3
+The 355; 6.9
+The Guilty; 7.1
+Mona Lisa and the Blood Moon; 6.7
+Death on the Nile; 7.0
+Untitled Elvis Presley Project; 7.5
+The First Lady; 7.3
+She Said; 7.8
+The Devil's Light; 6.1
+Uncharted; 7.2
+The Ice Road; 6.2
+Red Sonja; 6.7
+Ambulance; 6.9
+The Valet; 7.5
+A Journal for Jordan; 7.4
+The Outfit; 6.8
+The Menu; 7.2
+The Harder They Fall 2; 7.6
+Ace Ventura: When Nature Calls (1995); 4.2
+American President, The (1995); 3.7
+Assassins (1995); 2.9
+Babe (1995); 3.8
+Balto (1995); 3.1
+Casino (1995); 4.6
+City of Lost Children, The (Cité des enfants perdus, La) (1995); 3.5
+Clueless (1995); 4.8
+Copycat (1995); 3.9
+Cry, the Beloved Country (1995); 2.6
+Dangerous Minds (1995); 2.7
+Dead Man Walking (1995); 4.2
+Dead Presidents (1995); 3.4
+Dracula: Dead and Loving It (1995); 2.8
+Father of the Bride Part II (1995); 3.2
+Four Rooms (1995); 2.5
+Get Shorty (1995); 4.5
+GoldenEye (1995); 4.9
+Grumpier Old Men (1995); 3.3
+Heat (1995); 4.4
+How to Make an American Quilt (1995); 3.1
+It Takes Two (1995); 3.6
+Jumanji (1995); 3.8
+Leaving Las Vegas (1995); 4.1
+Mortal Kombat (1995); 2.9
+Money Train (1995); 2.7
+Nixon (1995); 3.5
+Now and Then (1995); 3.1
+Othello (1995); 3.7
+Pocahontas (1995); 3.3
+Powder (1995); 2.5
+Persuasion (1995); 2.4
+Richard III (1995); 2.8
+Restoration (1995); 3.4
+Sabrina (1995); 3.6
+Sudden Death (1995); 3.3
+Se7en (1995); 4.2
+Sense and Sensibility (1995); 3.5
+Shanghai Triad (Yao a yao yao dao waipo qiao) (1995); 3.2
+Seven (a.k.a. Se7en) (1995); 4.2
+To Die For (1995); 2.6
+Tom and Huck (1995); 2.8
+Twelve Monkeys (a.k.a. 12 Monkeys) (1995); 4.7
+Usual Suspects, The (1995); 4.9
+Waiting to Exhale (1995); 3.6
+When Night Is Falling (1995); 3.3
+Toy Story (1995); 4.5﻿
+The Matrix Resurrections; 7.2
+The Northman; 7.8
+The Tender Bar; 7.1
+Nope; 7.9
+The Unbearable Weight of Massive Talent; 6.8
+Bullet Train; 7.3
+The Lost City; 6.9
+Babylon; 7.7
+Blonde; 7.4
+The Brutalist; 6.5
+The Ice Road; 6.0
+Space Jam: A New Legacy; 5.8
+The Tomorrow War; 6.7
+Old; 6.2
+The Forever Purge; 6.5
+F9: The Fast Saga; 6.3
+Jungle Cruise; 6.7
+The Hitman's Wife's Bodyguard; 6.2
+Those Who Wish Me Dead; 6.0
+The Woman in the Window; 5.7
+The Kissing Booth 3; 5.8
+Thunderbirds Are Go - Operation Christmas; 7.5
+365 Days; 3.2
+365 Days: This Day; 4.1
+After We Fell; 5.8
+After Ever Happy; 5.5
+To All the Boys: Always and Forever; 6.3
+Malcolm & Marie; 6.7
+Moxie; 6.4
+The Dig; 7.1
+The Dig: Caelum's End; 7.8
+The Last Letter from Your Lover; 7.0
+The Princess Switch 3: Romancing the Star; 5.6
+A Castle for Christmas; 6.1
+Love Hard; 6.2
+Christmas on the Square; 5.4
+Red Notice; 6.6
+The Harder They Fall; 6.7
+Tick, Tick... Boom!; 8.1
+CODA; 8.2
+The Power of the Dog; 7.5
+The Mitchells vs the Machines; 7.8
+Luca; 7.5
+Soul; 8.3
+Shang-Chi and the Legend of the Ten Rings; 7.9
+The Green Knight; 7.6
+The Many Saints of Newark; 7.1
+Malignant; 6.3
+The Suicide Squad; 7.3
+Cruella; 7.4
+Black Widow; 8.3
+Mighty Aphrodite (1995); 4.0
+Lamerica (1994); 5.0
+Big Green, The (1995); 3.0
+Georgia (1995); 5.0
+Home for the Holidays (1995); 5.0
+Postman, The (Postino, Il) (1994); 5.0
+Indian in the Cupboard, The (1995); 5.0
+Eye for an Eye (1996); 3.0
+Mr. Holland's Opus (1995); 5.0
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996); 5.0
+Two if by Sea (1996); 4.0
+Bio-Dome (1996); 5.0
+Lawnmower Man 2: Beyond Cyberspace (1996); 4.0
+French Twist (Gazon maudit) (1995); 5.0
+Friday (1995); 5.0
+From Dusk Till Dawn (1996); 5.0
+Fair Game (1995); 4.0
+Kicking and Screaming (1995); 5.0
+Misérables, Les (1995); 5.0
+Bed of Roses (1996); 4.0
+Big Bully (1996); 5.0
+Screamers (1995); 5.0
+Nico Icon (1995); 5.0
+Crossing Guard, The (1995); 5.0
+Juror, The (1996); 5.0
+White Balloon, The (Badkonake sefid) (1995); 4.0
+Things to Do in Denver When You're Dead (1995); 5.0
+Antonia's Line (Antonia) (1995); 5.0
+Once Upon a Time... When We Were Colored (1995); 4.0
+Angels and Insects (1995); 2.0
+White Squall (1996); 5.0
+Dunston Checks In (1996); 5.0
+Black Sheep (1996); 5.0
+Nick of Time (1995); 5.0
+Mary Reilly (1996); 5.0
+Vampire in Brooklyn (1995); 5.0
+Beautiful Girls (1996); 3.0
+Broken Arrow (1996); 4.0
+In the Bleak Midwinter (1995); 5.0
+Hate (Haine, La) (1995); 5.0
+Heidi Fleiss: Hollywood Madam (1995); 5.0
+City Hall (1996); 5.0
+Bottle Rocket (1996); 5.0
+Mr. Wrong (1996); 5.0
+Unforgettable (1996); 4.0
+Happy Gilmore (1996); 3.0
+Bridges of Madison County, The (1995); 3.0
+Nobody Loves Me (Keiner liebt mich) (1994); 3.0
+Muppet Treasure Island (1996); 3.0
+Catwalk (1996); 4.0
+Braveheart (1995); 4.0
+Taxi Driver (1976); 5.0
+Rumble in the Bronx (Hont faan kui) (1995); 4.0
+Before and After (1996); 5.0
+Anne Frank Remembered (1995); 3.0
+Young Poisoner's Handbook, The (1995); 5.0
+If Lucy Fell (1996); 5.0
+Steal Big, Steal Little (1995); 4.0
+Boys of St. Vincent, The (1992); 5.0
+Boomerang (1992); 3.0
+Chungking Express (Chung Hing sam lam) (1994); 3.0
+Flirting With Disaster (1996); 5.0
+NeverEnding Story III, The (1994); 4.0
+Jupiter's Wife (1994); 4.0
+Pie in the Sky (1996); 5.0
+Jade (1995); 4.0
+Down Periscope (1996); 4.0
+Man of the Year (1995); 5.0
+Up Close and Personal (1996); 5.0
+Birdcage, The (1996); 4.0
+Brothers McMullen, The (1995); 4.0
+Bad Boys (1995); 5.0
+Amazing Panda Adventure, The (1995); 4.0
+Basketball Diaries, The (1995); 5.0
+Awfully Big Adventure, An (1995); 4.0
+Amateur (1994); 5.0
+Apollo 13 (1995); 4.0
+Rob Roy (1995); 5.0
+Addiction, The (1995); 4.0
+Man of the Year (1995); 5.0
+Up Close and Personal (1996); 5.0
+Birdcage, The (1996); 4.0
+Brothers McMullen, The (1995); 4.0
+Bad Boys (1995); 5.0
+Amazing Panda Adventure, The (1995); 4.0
+Basketball Diaries, The (1995); 5.0
+Awfully Big Adventure, An (1995); 4.0
+Batman Forever (1995); 5.0
+Beauty of the Day (Belle de jour) (1967); 5.0
+Beyond Rangoon (1995); 5.0
+Blue in the Face (1995); 3.0
+Canadian Bacon (1995); 5.0
+Casper (1995); 4.0
+Clockers (1995); 4.0
+Congo (1995); 4.0
+Crimson Tide (1995); 5.0
+Crumb (1994); 5.0
+Desperado (1995); 5.0
+Devil in a Blue Dress (1995); 5.0
+Die Hard: With a Vengeance (1995); 5.0
+Doom Generation, The (1995); 4.0
+First Knight (1995); 5.0
+Free Willy 2: The Adventure Home (1995); 4.0
+Hackers (1995); 4.0
+Jeffrey (1995); 2.0
+Johnny Mnemonic (1995); 4.0
+Judge Dredd (1995); 4.0
+Jury Duty (1995); 5.0
+Kids (1995); 5.0
+Living in Oblivion (1995); 2.0
+Lord of Illusions (1995); 5.0
+Love & Human Remains (1993); 4.0
+Mad Love (1995); 5.0
+Mallrats (1995); 2.0
+Mighty Morphin Power Rangers: The Movie (1995); 5.0
+Mute Witness (1994); 4.0
+Nadja (1994); 3.0
+Net, The (1995); 5.0
+Nine Months (1995); 4.0
+Party Girl (1995); 5.0
+Prophecy, The (1995); 5.0
+Reckless (1995); 4.0
+Safe (1995); 4.0
+Scarlet Letter, The (1995); 5.0
+Showgirls (1995); 3.0
+Smoke (1995); 5.0
+Something to Talk About (1995); 5.0
+Species (1995); 5.0
+Strange Days (1995); 5.0
+Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964); 5.0
+Net, The (1995); 5.0
+Nine Months (1995); 4.0
+Party Girl (1995); 5.0
+Prophecy, The (1995); 5.0
+Reckless (1995); 4.0
+Safe (1995); 4.0
+Scarlet Letter, The (1995); 5.0
+Showgirls (1995); 3.0
+Three Wishes (1995); 4.0
+Total Eclipse (1995); 2.0
+To Wong Foo, Thanks for Everything! Julie Newmar (1995); 4.0
+Under Siege 2: Dark Territory (1995); 4.0
+Unstrung Heroes (1995); 5.0
+Unzipped (1995); 4.0
+Walk in the Clouds, A (1995); 4.0
+Waterworld (1995); 5.0
+White Man's Burden (1995); 3.0
+Wild Bill (1995); 5.0
+Browning Version, The (1994); 5.0
+Bushwhacked (1995); 5.0
+Burnt by the Sun (Utomlyonnye solntsem) (1994); 5.0
+Before the Rain (Pred dozhdot) (1994); 4.0
+Before Sunrise (1995); 4.0
+Billy Madison (1995); 5.0
+Babysitter, The (1995); 5.0
+Boys on the Side (1995); 5.0
+Cure, The (1995); 4.0
+Castle Freak (1995); 5.0
+Circle of Friends (1995); 5.0
+Clerks (1994); 5.0
+Don Juan DeMarco (1995); 5.0
+Disclosure (1994); 5.0
+Drop Zone (1994); 4.0
+Destiny Turns on the Radio (1995); 5.0
+Death and the Maiden (1994); 5.0
+Dolores Claiborne (1995); 5.0
+Dumb & Dumber (Dumb and Dumber) (1994); 4.0
+Eat Drink Man Woman (Yin shi nan nu) (1994); 5.0
+Exotica (1994); 5.0
+Exit to Eden (1994); 5.0
+Ed Wood (1994); 5.0
+French Kiss (1995); 4.0
+Forget Paris (1995); 5.0
+Far From Home: The Adventures of Yellow Dog (1995); 4.0
+Goofy Movie, A (1995); 1.0
+Hideaway (1995); 3.9
+Fluke (1995)	3
+Farinelli: il castrato (1994)	5
+Gordy (1995)	5
+Hoop Dreams (1994)	5
+Heavenly Creatures (1994)	4
+Houseguest (1994)	4
+Immortal Beloved (1994)	5
+Heavyweights (Heavy Weights) (1995)	5
+Hunted, The (1995)	5
+I.Q. (1994)	4
+Interview with the Vampire: The Vampire Chronicles (1994)	4
+Jefferson in Paris (1995)	4
+Jerky Boys, The (1995)	5
+Junior (1994)	4
+Just Cause (1995)	4
+Kid in King Arthur's Court, A (1995)	5
+Kiss of Death (1995)	5
+Star Wars: Episode IV - A New Hope (1977)	5
+Little Women (1994)	5
+Little Princess, A (1995)	4
+Ladybird Ladybird (1994)	4
+Like Water for Chocolate (Como agua para chocolate) (1992)	5
+Legends of the Fall (1994)	4
+Major Payne (1995)	4
+My Crazy Life (Mi vida loca) (1993)	5
+Love Affair (1994)	3
+Losing Isaiah (1995)	4
+Madness of King George, The (1994)	4.5
+Mary Shelley's Frankenstein (Frankenstein) (1994)	4
+Man of the House (1995)	4
+Mixed Nuts (1994)	3.5
+Milk Money (1994)	4
+Miracle on 34th Street (1994)	4
+Miami Rhapsody (1995)	4.5
+My Family (1995)	5
+Murder in the First (1995)	4.5
+Nobody's Fool (1994)	3
+Nell (1994)	4
+New Jersey Drive (1995)	3
+New York Cop (Nyû Yôku no koppu) (1993)	4
+Beyond Bedlam (1993)	4.5
+Nina Takes a Lover (1994)	5
+Natural Born Killers (1994)	4
+Only You (1994)	5
+Once Were Warriors (1994)	3.5
+Poison Ivy II (1996)	2.5
+Outbreak (1995)	3.5
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994)	5
+Perez Family, The (1995)	3
+Pyromaniac's Love Story, A (1995)	4
+Pulp Fiction (1994)	2
+Pushing Hands (Tui shou) (1992)	3.5
+Priest (1994)	5
+Quiz Show (1994)	5
+Picture Bride (Bijo photo) (1994)	0.5
+Queen Margot (Reine Margot, La) (1994)	0.5
+Quick and the Dead, The (1995)	0.5
+Roommates (1995)	0.5
+Ready to Wear (Pret-A-Porter) (1994)	0.5
+Three Colors: Red (Trois couleurs: Rouge) (1994)	5
+Three Colors: Blue (Trois couleurs: Bleu) (1993)	0.5
+Three Colors: White (Trzy kolory: Bialy) (1994)	0.5
+Rent-a-Kid (1995)	0.5
+Relative Fear (1994)	0.5
+Stuart Saves His Family (1995)	0.5
+Swan Princess, The (1994)	3.5
+Secret of Roan Inish, The (1994)	0.5
+Specialist, The (1994)	3
+Stargate (1994)	4.5
+Santa Clause, The (1994)	0.5
+Shawshank Redemption, The (1994)	0.5
+Shallow Grave (1994)	0.5
+Suture (1993)	2
+Strawberry and Chocolate (Fresa y chocolate) (1993)	4
+Swimming with Sharks (1995)	0.5
+Sum of Us, The (1994)	5
+National Lampoon's Senior Trip (1995)	4.5
+To Live (Huozhe) (1994)	0.5
+Tank Girl (1995)	5
+Tales from the Crypt Presents: Demon Knight (1995)	0.5
+Star Trek: Generations (1994)	5
+Tales from the Hood (1995)	0.5
+Tom & Viv (1994)	5
+Village of the Damned (1995)	5
+Tommy Boy (1995)	4.5
+Vanya on 42nd Street (1994)	5
+Underneath (1995)	0.5
+Walking Dead, The (1995)	5
+What's Eating Gilbert Grape (1993)	4.5
+Virtuosity (1995)	5
+While You Were Sleeping (1995)	4.5
+War, The (1994)	5
+Double Happiness (1994)	0.5
+Muriel's Wedding (1994)	3
+Baby-Sitters Club, The (1995)	2
+Ace Ventura: Pet Detective (1994)	3
+Adventures of Priscilla, Queen of the Desert, The (1994)	2
+Backbeat (1993)	3
+Bitter Moon (1992)	3
+Bullets Over Broadway (1994)	4
+Clear and Present Danger (1994)	5
+Client, The (1994)	1
+Corrina, Corrina (1994)	5
+Crooklyn (1994)	3
+Crow, The (1994)	5
+Cobb (1994)	2
+Flintstones, The (1994)	5
+Forrest Gump (1994)	1
+Four Weddings and a Funeral (1994)	5
+Higher Learning (1995)	2
+I Like It Like That (1994)	3
+I Love Trouble (1994)	5
+It Could Happen to You (1994)	5
+Jungle Book, The (1994)	1
+Wonderful, Horrible Life of Leni Riefenstahl, The (Macht der Bilder: Leni Riefenstahl, Die) (1993)	5
+Lion King, The (1994)	5
+Little Buddha (1993)	4
+Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A) (1994)	4
+Mask, The (1994)	3
+Maverick (1994)	3
+Mrs. Parker and the Vicious Circle (1994)	4
+Naked Gun 33 1/3: The Final Insult (1994)	2
+Paper, The (1994)	1
+Reality Bites (1994)	2
+Red Rock West (1992)	5
+Richie Rich (1994)	5
+River Wild, The (1994)	5
+Speed (1994)	1
+Speechless (1994)	5
+Timecop (1994)	1
+True Lies (1994)	2
+When a Man Loves a Woman (1994)	4
+Wolf (1994)	5
+Wyatt Earp (1994)	3
+Bad Company (1995)	2
+Man of No Importance, A (1994)	5
+S.F.W. (1994)	3
+Low Down Dirty Shame, A (1994)	4
+Boys Life (1995)	3
+Colonel Chabert, Le (1994)	4
+Faster Pussycat! Kill! Kill! (1965)	4
+Jason's Lyric (1994)	5
+Street Fighter (1994)	4
+Highlander III: The Sorcerer (a.k.a. Highlander: The Final Dimension) (1994)	4
+Federal Hill (1994)	4
+In the Mouth of Madness (1995)	5
+8 Seconds (1994)	5
+Above the Rim (1994)	5
+Addams Family Values (1993)	5
+Age of Innocence, The (1993)	5
+Airheads (1994)	5
+Air Up There, The (1994)	5
+Another Stakeout (1993)	3
+Bad Girls (1994)	4
+Barcelona (1994)	5
+Being Human (1993)	3
+Beverly Hillbillies, The (1993)	2
+Beverly Hills Cop III (1994)	4
+Black Beauty (1994)	5
+Blink (1994)	2
+Blown Away (1994)	5
+Blue Chips (1994)	5
+Blue Sky (1994)	5
+Body Snatchers (1993)	3
+Boxing Helena (1993)	5
+Bronx Tale, A (1993)	5
+Cabin Boy (1994)	4
+Calendar Girl (1993)	1
+Carlito's Way (1993)	5
+City Slickers II: The Legend of Curly's Gold (1994)	5
+Clean Slate (1994)	5
+Cliffhanger (1993)	3
+Coneheads (1993)	2
+Color of Night (1994)	5
+Cops and Robbersons (1994)	1
+Cowboy Way, The (1994)	4
+Dave (1993)	4
+Dazed and Confused (1993)	4
+Demolition Man (1993)	5
+Even Cowgirls Get the Blues (1993)	4
+Fatal Instinct (1993)	4
+Farewell My Concubine (Ba wang bie ji) (1993)	4
+Fearless (1993)	2
+Fear of a Black Hat (1994)	5
+With Honors (1994)	5
+Flesh and Bone (1993)	4
+Widows' Peak (1994)	4
+For Love or Money (1993)	3
+Firm, The (1993)	1
+Free Willy (1993)	5
+Fresh (1994)	4
+Fugitive, The (1993)	4
+Geronimo: An American Legend (1993)	4
+Getaway, The (1994)	3
+Getting Even with Dad (1994)	1
+Go Fish (1994)	2
+Hard Target (1993)	4
+Hot Shots! Part Deux (1993)	1
+Live Nude Girls (1995)	4
+Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)	4
+House of the Spirits, The (1993)	5
+House Party 3 (1994)	3
+Hudsucker Proxy, The (1994)	5
+I'll Do Anything (1994)	2
+In the Army Now (1994)	4
+In the Line of Fire (1993)	3
+In the Name of the Father (1993)	2
+Inkwell, The (1994)	4
+What's Love Got to Do with It? (1993)	3
+Jimmy Hollywood (1994)	4
+Judgment Night (1993)	1
+Jurassic Park (1993)	3
+Kalifornia (1993)	5
+Killing Zoe (1994)	2
+Lassie (1994)	5
+Last Action Hero (1993)	4
+Life with Mikey (1993)	2
+Lightning Jack (1994)	4
+M. Butterfly (1993)	5
+Made in America (1993)	4
+Malice (1993)	3
+Man Without a Face, The (1993)	5
+Manhattan Murder Mystery (1993)	5
+Menace II Society (1993)	5
+Executive Decision (1996)	4
+In the Realm of the Senses (Ai no corrida) (1976)	5
+What Happened Was... (1994)	1
+Much Ado About Nothing (1993)	1
+Mr. Wonderful (1993)	2
+Mrs. Doubtfire (1993)	4
+Naked (1993)	4
+Next Karate Kid, The (1994)	5
+No Escape (1994)	3
+North (1994)	4
+Orlando (1992)	4
+Perfect World, A (1993)	1
+Philadelphia (1993)	5
+Piano, The (1993)	5
+Poetic Justice (1993)	1
+Program, The (1993)	4
+Puppet Masters, The (1994)	5
+Radioland Murders (1994)	2
+Ref, The (1994)	4
+Remains of the Day, The (1993)	1
+Renaissance Man (1994)	2
+Rising Sun (1993)	5
+Road to Wellville, The (1994)	5
+RoboCop 3 (1993)	5
+Robin Hood: Men in Tights (1993)	4
+Romeo Is Bleeding (1993)	4
+Romper Stomper (1992)	5
+Ruby in Paradise (1993)	2
+Rudy (1993)	2
+Savage Nights (Nuits fauves, Les) (1992)	4
+Schindler's List (1993)	4
+Scout, The (1994)	5
+Searching for Bobby Fischer (1993)	4
+Secret Garden, The (1993)	3
+Serial Mom (1994)	5
+Shadow, The (1994)	4
+Shadowlands (1993)	1
+Short Cuts (1993)	4
+Simple Twist of Fate, A (1994)	4
+Sirens (1994)	4
+Six Degrees of Separation (1993)	4
+Sleepless in Seattle (1993)	3
+Sliver (1993)	5
+Blade Runner (1982)	4
+Son in Law (1993)	4
+So I Married an Axe Murderer (1993)	2
+Striking Distance (1993)	1
+Super Mario Bros. (1993)	5
+Surviving the Game (1994)	2
+Terminal Velocity (1994)	1
+Thirty-Two Short Films About Glenn Gould (1993)	3
+Threesome (1994)	3
+Nightmare Before Christmas, The (1993)	5
+Three Musketeers, The (1993)	4
+Tombstone (1993)	3
+True Romance (1993)	4
+War Room, The (1993)	4
+Pagemaster, The (1994)	3
+Welcome to the Dollhouse (1995)	1
+Germinal (1993)	3
+Chasers (1994)	4
+Kika (1993)	3
+Bhaji on the Beach (1993)	3
+Little Big League (1994)	4
+Ciao, Professore! (Io speriamo che me la cavo) (1992)	5
+Spanking the Monkey (1994)	3
+Little Rascals, The (1994)	4
+Andre (1994)	3
+Escort, The (Scorta, La) (1993)	3
+Princess Caraboo (1994)	2
+Celluloid Closet, The (1995)	5
+Dear Diary (Caro Diario) (1994)	4
+Brady Bunch Movie, The (1995)	3
+Home Alone (1990)	2
+Ghost (1990)	4
+Aladdin (1992)	1
+Terminator 2: Judgment Day (1991)	4
+Dances with Wolves (1990)	3
+Batman (1989)	1
+Silence of the Lambs, The (1991)	3
+Snow White and the Seven Dwarfs (1937)	5
+Beauty and the Beast (1991)	3
+Pinocchio (1940)	4
+Pretty Woman (1990)	4
+Wild Bunch, The (1969)	5
+Love and a .45 (1994)	4
+Great Day in Harlem, A (1994)	4
+One Fine Day (1996)	4
+Candyman: Farewell to the Flesh (1995)	4
+Fargo (1996)	3
+Homeward Bound II: Lost in San Francisco (1996)	4
+Heavy Metal (1981)	5
+Hellraiser: Bloodline (1996)	4
+Pallbearer, The (1996)	3
+Jane Eyre (1996)	3
+Bread and Chocolate (Pane e cioccolata) (1973)	4
+Aristocats, The (1970)	5
+Flower of My Secret, The (La flor de mi secreto) (1995)	3
+Two Much (1995)	4
+Ed (1996)	3
+Thin Line Between Love and Hate, A (1996)	1
+Last Supper, The (1995)	5
+Primal Fear (1996)	5
+All Dogs Go to Heaven 2 (1996)	3
+Land and Freedom (Tierra y libertad) (1995)	2
+Denise Calls Up (1995)	3
+Theodore Rex (1995)	3
+Family Thing, A (1996)	3
+Frisk (1995)	2
+Sgt. Bilko (1996)	3
+Jack and Sarah (1995)	4
+Girl 6 (1996)	2
+Diabolique (1996)	3
+Nelly & Monsieur Arnaud (1995)	4
+Courage Under Fire (1996)	4
+Mission: Impossible (1996)	5
+Cold Fever (Á köldum klaka) (1995)	3
+Moll Flanders (1996)	5
+Dragonheart (1996)	4
+Eddie (1996)	3
+James and the Giant Peach (1996)	4
+Fear (1996)	3
+Kids in the Hall: Brain Candy (1996)	5
+Underground (1995)	3
+Bloodsport 2 (a.k.a. Bloodsport II: The Next Kumite) (1996)	5
+Song of the Little Road (Pather Panchali) (1955)	5
+World of Apu, The (Apur Sansar) (1959)	5
+Mystery Science Theater 3000: The Movie (1996)	3
+Space Jam (1996)	3
+Barbarella (1968)	4
+Some Folks Call It a Sling Blade (1993)	5
+Run of the Country, The (1995)	3
+Alphaville (Alphaville, une étrange aventure de Lemmy Caution) (1965)	5
+It's My Party (1996)	4
+Operation Dumbo Drop (1995)	4
+Mrs. Winterbourne (1996)	3
+Solo (1996)	3
+Substitute, The (1996)	4
+True Crime (1996)	3
+Feeling Minnesota (1996)	4
+Delta of Venus (1995)	4
+Angus (1995)	4
+Boys (1996)	2
+Quest, The (1996)	2
+Sunset Park (1996)	5
+Mulholland Falls (1996)	4
+Truth About Cats & Dogs, The (1996)	3
+Oliver & Company (1988)	4
+Celtic Pride (1996)	3
+Flipper (1996)	3
+Dead Man (1995)	4
+Horseman on the Roof, The (Hussard sur le toit, Le) (1995)	4
+Visitors, The (Visiteurs, Les) (1993)	5
+Multiplicity (1996)	4
+Wallace & Gromit: The Best of Aardman Animation (1996)	4
+Haunted World of Edward D. Wood Jr., The (1996)	3
+Craft, The (1996)	4
+Great White Hype, The (1996)	4
+Last Dance (1996)	1
+Cold Comfort Farm (1995)	4
+Heaven's Prisoners (1996)	4
+Rock, The (1996)	4
+Cemetery Man (Dellamorte Dellamore) (1994)	4
+Twister (1996)	3
+Barb Wire (1996)	3
+Ghost in the Shell (Kôkaku kidôtai) (1995)	4
+Thinner (1996)	3
+Spy Hard (1996)	5
+Wallace & Gromit: A Close Shave (1995)	3
+Stupids, The (1996)	2
+Arrival, The (1996)	4
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)	4
+Ashes of Time (Dung che sai duk) (1994)	4
+Maya Lin: A Strong Clear Vision (1994)	4
+Stalingrad (1993)	3
+Phantom, The (1996)	1
+Striptease (1996)	4
+Heavy (1995)	3
+Jack (1996)	5
+I Shot Andy Warhol (1996)	4
+Touki Bouki (1973)	3
+Spirits of the Dead (1968)	3
+Trainspotting (1996)	3
+'Til There Was You (1997)	3
+Independence Day (a.k.a. ID4) (1996)	4
+Stealing Beauty (1996)	4
+Fan, The (1996)	4
+Hunchback of Notre Dame, The (1996)	4
+Cable Guy, The (1996)	4
+Kingpin (1996)	3
+Eraser (1996)	4
+Nutty Professor, The (1996)	3
+Unforgettable Summer, An (Un été inoubliable) (1994)	5
+Last Klezmer: Leopold Kozlowski, His Life and Music, The (1994)	3
+Somebody to Love (1994)	3
+Daylight (1996)	3
+Frighteners, The (1996)	5
+Lone Star (1996)	3
+Harriet the Spy (1996)	3
+Phenomenon (1996)	3
+Walking and Talking (1996)	3
+She's the One (1996)	1
+Time to Kill, A (1996)	2
+American Buffalo (1996)	3
+Alaska (1996)	3
+Fled (1996)	3
+Kazaam (1996)	3
+Larger Than Life (1996)	2
+Very Brady Sequel, A (1996)	4
+Collector, The (La collectionneuse) (1967)	3
+Kaspar Hauser (1993)	3
+Adventures of Pinocchio, The (1996)	3
+Joe's Apartment (1996)	3
+First Wives Club, The (1996)	4
+Ransom (1996)	3
+High School High (1996)	3
+Foxfire (1996)	4
+Chain Reaction (1996)	4
+Matilda (1996)	4
+Emma (1996)	3
+Crow: City of Angels, The (1996)	2
+House Arrest (1996)	3
+Eyes Without a Face (Yeux sans visage, Les) (1959)	4
+Tales from the Crypt Presents: Bordello of Blood (1996)	3
+Spitfire Grill, The (1996)	4
+Escape from L.A. (1996)	5
+Basquiat (1996)	3
+Tin Cup (1996)	2
+Godfather, The (1972)	4
+Supercop (Police Story 3: Supercop) (Jing cha gu shi III: Chao ji jing cha) (1992)	4
+Bound (1996)	3
+Carpool (1996)	3
+Kansas City (1996)	3
+Gone Fishin' (1997)	5
+Nothing to Lose (1994)	4
+Supercop 2 (Project S) (Chao ji ji hua) (1993)	3
+Relic, The (1997)	4
+Island of Dr. Moreau, The (1996)	3
+First Kid (1996)	3
+Trigger Effect, The (1996)	3
+Bogus (1996)	5
+Bulletproof (1996)	3
+Land Before Time III: The Time of the Great Giving (1995)	4
+1-900 (06) (1994)	5
+Halloween: The Curse of Michael Myers (Halloween 6: The Curse of Michael Myers) (1995)	3
+Twelfth Night (1996)	3
+Mother Night (1996)	3
+Wild Reeds (Les roseaux sauvages) (1994)	3
+For Whom the Bell Tolls (1943)	4
+Philadelphia Story, The (1940)	3
+Singin' in the Rain (1952)	4
+American in Paris, An (1951)	4
+Funny Face (1957)	5
+Breakfast at Tiffany's (1961)	3
+Vertigo (1958)	4
+Rear Window (1954)	3
+It Happened One Night (1934)	2
+Gaslight (1944)	3
+Gay Divorcee, The (1934)	3
+North by Northwest (1959)	4
+Apartment, The (1960)	3
+Some Like It Hot (1959)	2
+Charade (1963)	3
+Casablanca (1942)	3
+Maltese Falcon, The (1941)	4
+My Fair Lady (1964)	3
+Sabrina (1954)	1
+Roman Holiday (1953)	3
+Little Princess, The (1939)	5
+Meet Me in St. Louis (1944)	4
+Wizard of Oz, The (1939)	5
+Gone with the Wind (1939)	4
+My Favorite Year (1982)	5
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)	1
+Citizen Kane (1941)	4
+2001: A Space Odyssey (1968)	3
+All About Eve (1950)	3
+Women, The (1939)	5
+Rebecca (1940)	3
+Foreign Correspondent (1940)	5
+Notorious (1946)	4
+Spellbound (1945)	4
+Affair to Remember, An (1957)	3
+To Catch a Thief (1955)	3
+Father of the Bride (1950)	3
+Band Wagon, The (1953)	3
+Ninotchka (1939)	3
+Love in the Afternoon (1957)	5
+Gigi (1958)	5
+Adventures of Robin Hood, The (1938)	4
+Mark of Zorro, The (1940)	3
+Laura (1944)	4
+Ghost and Mrs. Muir, The (1947)	4
+Lost Horizon (1937)	4
+Top Hat (1935)	5
+To Be or Not to Be (1942)	3
+My Man Godfrey (1936)	3
+Giant (1956)	3
+East of Eden (1955)	3
+Thin Man, The (1934)	4
+His Girl Friday (1940)	3
+Around the World in 80 Days (1956)	5
+It's a Wonderful Life (1946)	3
+Mr. Smith Goes to Washington (1939)	4
+Bringing Up Baby (1938)	5
+Penny Serenade (1941)	4
+Of Human Bondage (1934)	3
+Little Lord Fauntleroy (1936)	3
+Inspector General, The (1949)	5
+39 Steps, The (1935)	3
+Night of the Living Dead (1968)	4
+African Queen, The (1951)	3
+Beat the Devil (1953)	3
+Cat on a Hot Tin Roof (1958)	3
+Meet John Doe (1941)	3
+Farewell to Arms, A (1932)	3
+Nothing Personal (1995)	3
+Dangerous Ground (1997)	4
+Picnic (1955)	3
+Pompatus of Love, The (1996)	3
+Fly Away Home (1996)	3
+Bliss (1997)	5
+Grace of My Heart (1996)	4
+Maximum Risk (1996)	3
+Michael Collins (1996)	3
+Infinity (1996)	4
+Big Night (1996)	3
+Last Man Standing (1996)	4
+Set It Off (1996)	4
+2 Days in the Valley (1996)	3

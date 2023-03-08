@@ -1,5 +1,6 @@
-from Q1_heap import * 
+# from Q1_heap import * 
 # from Q2_heap import * 
+from Q2_heap1 import * 
 # from Q3_heap import * 
 if __name__ == "__main__":
 
@@ -32,8 +33,7 @@ if __name__ == "__main__":
         sorted.append(name_score_dict[item])
     for item in sorted_names1:
         sorted1.append(name_score_dict[item])
-    sorted_true = [9.4, 9.3, 9.2, 9.1, 9.0, 9.0, 8.8, 8.8, 8.8, 8.8, 8.7, 8.7,
-     8.6, 8.6, 8.5, 8.5, 8.4, 8.4, 8.4, 8.4, 8.4, 8.4, 8.3, 8.2, 8.1, 8.0, 7.8, 7.7, 7.7, 7.5, 7.5, 7.4, 7.4, 7.4, 7.4, 7.3, 7.3, 7.2, 7.2, 7.2, 7.1]
+    sorted_true = [9.4, 9.3, 9.2, 9.1, 9.0, 9.0, 8.8, 8.8, 8.8, 8.8, 8.7, 8.7, 8.6, 8.6, 8.5, 8.5, 8.4, 8.4, 8.4, 8.4, 8.4, 8.4, 8.3, 8.2, 8.1, 8.0, 7.8, 7.7, 7.7, 7.5, 7.5, 7.4, 7.4, 7.4, 7.4, 7.3, 7.3, 7.2, 7.2, 7.2, 7.1]
     if sorted == sorted_true and sorted1 == sorted_true:
         print("pass")
     
