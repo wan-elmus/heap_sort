@@ -90,19 +90,19 @@ def sort_movies_incre(names, ratings):
     return sorted_names
 
 
-# names = ['Dont Look Up', 'Spider-Man: No way Home', 'Attack on Titan', 'Nightmare Alley', 'Encanto', 'The Book of Boba Fett', 'All of Us Are Dead', 'Dune', 'Breaking Bad', 'Reacher', 'Ghostbusters: afterlife', 'Peacemaker', 'The Frog', 'Sing', 'The Mandalorian', 'The Matrix', 'Avengers: infinity war', 'Forrest Gump', 'Inception', 'After Life', 'Dexter: New Blood', 'Nobody', 'Avengers:Endgame', 'Fight Club', 'The Witcher', 'Euphoria', 'Joker', 'Free Guy', 'The Tinder Swindler', 'Ozark', 'Interstellar', 'The Shawshank Redemption', 'Hawkeye', 'The Dark Knight', 'Game of Thrones', 'No Time to Die', 'Squid Game', 'Scream', 'The Last Duel', 'Arcane', 'Archive 81' ]
+names = ['Dont Look Up', 'Spider-Man: No way Home', 'Attack on Titan', 'Nightmare Alley', 'Encanto', 'The Book of Boba Fett', 'All of Us Are Dead', 'Dune', 'Breaking Bad', 'Reacher', 'Ghostbusters: afterlife', 'Peacemaker', 'The Frog', 'Sing', 'The Mandalorian', 'The Matrix', 'Avengers: infinity war', 'Forrest Gump', 'Inception', 'After Life', 'Dexter: New Blood', 'Nobody', 'Avengers:Endgame', 'Fight Club', 'The Witcher', 'Euphoria', 'Joker', 'Free Guy', 'The Tinder Swindler', 'Ozark', 'Interstellar', 'The Shawshank Redemption', 'Hawkeye', 'The Dark Knight', 'Game of Thrones', 'No Time to Die', 'Squid Game', 'Scream', 'The Last Duel', 'Arcane', 'Archive 81' ]
 
-# ratings = [7.2, 8.7, 9.0, 7.2, 7.3, 7.8, 7.7, 8.1, 9.4, 8.6, 7.3, 8.4, 8.5, 7.5, 8.8, 8.7, 8.4, 8.8, 8.8, 8.5, 8.3, 7.4, 8.4, 8.8, 8.2, 8.4, 8.4, 7.2, 7.4, 8.4, 8.6, 9.3, 7.7, 9.0, 9.2, 7.4, 8.0, 7.1, 7.4, 9.1, 7.5]
+ratings = [7.2, 8.7, 9.0, 7.2, 7.3, 7.8, 7.7, 8.1, 9.4, 8.6, 7.3, 8.4, 8.5, 7.5, 8.8, 8.7, 8.4, 8.8, 8.8, 8.5, 8.3, 7.4, 8.4, 8.8, 8.2, 8.4, 8.4, 7.2, 7.4, 8.4, 8.6, 9.3, 7.7, 9.0, 9.2, 7.4, 8.0, 7.1, 7.4, 9.1, 7.5]
 
-# movies = sort_movies_batch(names, ratings)
-# print("Movies sorted in decreasing order of ratings:")
-# for name in movies:
-#     print(name)
+movies = sort_movies_batch(names, ratings)
+print("Movies sorted in decreasing order of ratings:")
+for name in movies:
+    print(name)
 
-# movies = sort_movies_incre(names, ratings)
-# print("Movies sorted in increasing order of ratings:")
-# for name in movies:
-#     print(name)
+movies = sort_movies_incre(names, ratings)
+print("Movies sorted in increasing order of ratings:")
+for name in movies:
+    print(name)
 
 
 
