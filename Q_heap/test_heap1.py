@@ -8,11 +8,20 @@ if __name__ == "__main__":
     names, ratings = [], []
     next(a_file)
     name_score_dict ={}
+    # for line in a_file:
+    #     temp = line.rstrip().split('; ')
+    #     names.append(temp[0]) #key: name
+    #     ratings.append(float(temp[1])) #name: rating
+    #     name_score_dict[temp[0]] = float(temp[1])
+    
     for line in a_file:
         temp = line.rstrip().split('; ')
+        if len(temp) < 2:
+            continue  # skip lines without at least two elements
         names.append(temp[0]) #key: name
         ratings.append(float(temp[1])) #name: rating
         name_score_dict[temp[0]] = float(temp[1])
+
 
     ########you need to design sort_movies() function    
     sorted_names = sort_movies_batch(names, ratings)

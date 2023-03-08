@@ -1,13 +1,13 @@
 ﻿names						ratings
-Dont Look Up					7.2		
+Dont Look Up				7.2		
 Spider-Man: No way Home			8.7
 Attack on Titan				9.0
 Nightmare Alley				7.2
 Encanto					7.3
 The Book of Boba Fett			7.8
-All of Us Are Dead				7.7
+All of Us Are Dead			7.7
 Dune						8.1
-Breaking Bad					9.4
+Breaking Bad				9.4
 Reacher					8.6
 Ghostbusters: afterlife			7.3
 Peacemaker					8.4
@@ -16,7 +16,7 @@ Sing						7.5
 The Mandalorian				8.8
 The Matrix					8.7
 Avengers: infinity war			8.4
-Forrest Gump					8.8
+Forrest Gump				8.8
 Inception					8.8
 After Life					8.5
 Dexter: New Blood				8.3
@@ -27,17 +27,17 @@ The Witcher					8.2
 Euphoria					8.4
 Joker						8.4
 Free Guy					7.2
-The Tinder Swindler				7.4
+The Tinder Swindler			7.4
 Ozark						8.4
-Interstellar					8.6
-The Shawshank Redemption			9.3
+Interstellar				8.6
+The Shawshank Redemption		9.3
 Hawkeye					7.7
 The Dark Knight				9.0
 Game of Thrones				9.2
 No Time to Die				7.4
 Squid Game					8.0
 Scream 					7.1
-The Last Duel					7.4
-Arcane						9.1
+The Last Duel				7.4
+Arcane					9.1
 Archive 81					7.5
 
