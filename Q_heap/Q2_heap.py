@@ -55,23 +55,7 @@ class MaxHeap:
         del self.heap[-1]
         self.maxHeapify(0, n-1)
         return root
-
-
-# def sort_movies_batch(names, ratings):
-#     n = len(ratings)
-#     heap = MaxHeap()
-#     heap.maxHeap(ratings)
-#     sorted_names = []
-#     for i in range(n-1, -1, -1):
-#         max_score = heap.remove()
-#         for j, rating in enumerate(ratings):
-#             if rating == max_score:
-#                 sorted_names.append(names[j])
-#                 ratings.pop(j)
-#                 names.pop(j)
-#                 break
-#     sorted_names.reverse()
-#     return sorted_names
+    
 
 def sort_movies_batch(names, ratings):
     n = len(ratings)
