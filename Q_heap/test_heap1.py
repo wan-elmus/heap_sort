@@ -1,7 +1,7 @@
 # from Q1_heap import * 
-from Q2_heap import * 
+# from Q2_heap import * 
 # from Q2_heap1 import * 
-# from Q3_heap import * 
+from Q3_heap import * 
 if __name__ == "__main__":
 
 
